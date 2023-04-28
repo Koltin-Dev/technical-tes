@@ -39,7 +39,7 @@ PHP, MYSQL, VueJS
 > Usuario **NICOLA4561** publica un servicio de **"Aprende a hacer muebles"**, Usuario **MARIA_4567** pregunta `Hola Daniel se puede mejorar un precio por 10 horas?`
 
 **REQUERIMIENTO:**
-El objetivo principal es crear un endpoint al cual se realizan las peticiones necesarias para enviar el mensaje, donde se guarde los datos del usuario que emite el mensaje y el usuario que recibe el mensaje, además de fecha, hora, entre otros.
+El objetivo principal generar los recursos necesarios para recibir las peticiones necesarias para enviar el mensaje, donde se guarde los datos del usuario que emite el mensaje y el usuario que recibe el mensaje, además de fecha, hora, entre otros.
 
 ![](https://i.imgur.com/lqJOU2X.png)
 
@@ -57,7 +57,7 @@ PHP, MYSQL, VueJS
 > ¿Por otro lado tenemos un nuevo Usuario **ROBERTO_DIAZ** el cual realiza una pregunta, `Hola Daniel tengo que llevar mi propia Guitarra?`
 
 **REQUERIMIENTO:**
-Se requiere realizar la lógica necesaria entre rutas y controlador para que un usuario puede tener múltiples hilos de conversión “chats” relaciones a una publicación y relacionados con un usuario.
+Se necesita desarrollar la lógica correspondiente en las rutas y el controlador, para que un usuario tenga la capacidad de tener varios hilos de conversación, también conocidos como "chats", relacionados con una publicación y vinculados a su perfil.
 
 ![](https://i.imgur.com/DkstVS0.png)
 
@@ -74,7 +74,7 @@ PHP, MYSQL
 > Tener en cuenta de que el historial del chat puede llegar a tener cientos de mensajes, por lo cual se necesita paginar en lotes de 15 mensajes. También es necesario basado en la fecha del mensaje ordenarlos desde el más reciente.
 
 **REQUERIMIENTO:**
-Realizar la lógica necesaria en el controlador para poder paginar y mostrar la cantidad de mensajes, y ordenarlos por fecha.
+Es necesario desarrollar la lógica adecuada en el controlador para poder paginar los mensajes, mostrar la cantidad de mensajes en cada página y ordenarlos por fecha de manera ascendente o descendente.
 
 ### 4. Archivos adjuntos.
 
